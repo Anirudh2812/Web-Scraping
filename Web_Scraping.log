@@ -1,0 +1,78 @@
+2025-09-24 22:04:34,617 - INFO - the app has started
+2025-09-24 22:04:46,480 - INFO - Message: 
+Stacktrace:
+#0 0x5f8726ff6fba <unknown>
+#1 0x5f8726a7b6d0 <unknown>
+#2 0x5f8726acd2aa <unknown>
+#3 0x5f8726acd541 <unknown>
+#4 0x5f8726b1b6c4 <unknown>
+#5 0x5f8726af2e5d <unknown>
+#6 0x5f8726b18b54 <unknown>
+#7 0x5f8726af2c03 <unknown>
+#8 0x5f8726abf7a8 <unknown>
+#9 0x5f8726ac0421 <unknown>
+#10 0x5f8726fbbb28 <unknown>
+#11 0x5f8726fbf87f <unknown>
+#12 0x5f8726fa3c49 <unknown>
+#13 0x5f8726fc0405 <unknown>
+#14 0x5f8726f894ff <unknown>
+#15 0x5f8726fe4258 <unknown>
+#16 0x5f8726fe4432 <unknown>
+#17 0x5f8726ff5fa3 <unknown>
+#18 0x795437e9caa4 <unknown>
+#19 0x795437f29c3c <unknown>
+
+2025-09-24 22:04:46,480 - INFO - Button never showed up, continuing...
+2025-09-24 22:08:16,733 - INFO - the app has started
+2025-09-24 22:08:28,393 - INFO - Message: 
+Stacktrace:
+#0 0x579d09c2ffba <unknown>
+#1 0x579d096b46d0 <unknown>
+#2 0x579d097062aa <unknown>
+#3 0x579d09706541 <unknown>
+#4 0x579d097546c4 <unknown>
+#5 0x579d0972be5d <unknown>
+#6 0x579d09751b54 <unknown>
+#7 0x579d0972bc03 <unknown>
+#8 0x579d096f87a8 <unknown>
+#9 0x579d096f9421 <unknown>
+#10 0x579d09bf4b28 <unknown>
+#11 0x579d09bf887f <unknown>
+#12 0x579d09bdcc49 <unknown>
+#13 0x579d09bf9405 <unknown>
+#14 0x579d09bc24ff <unknown>
+#15 0x579d09c1d258 <unknown>
+#16 0x579d09c1d432 <unknown>
+#17 0x579d09c2efa3 <unknown>
+#18 0x7cda7949caa4 <unknown>
+#19 0x7cda79529c3c <unknown>
+
+2025-09-24 22:08:28,393 - INFO - Button never showed up, continuing...
+2025-09-25 19:54:55,988 - INFO - the app has started
+2025-09-25 19:55:04,572 - INFO - the app has started
+2025-09-25 19:55:08,555 - INFO - the app has started
+2025-09-25 19:55:43,269 - INFO - the app has started
+2025-09-25 19:56:04,179 - INFO - Message: 
+Stacktrace:
+#0 0x5671e1abefba <unknown>
+#1 0x5671e15436d0 <unknown>
+#2 0x5671e15952aa <unknown>
+#3 0x5671e1595541 <unknown>
+#4 0x5671e15e36c4 <unknown>
+#5 0x5671e15bae5d <unknown>
+#6 0x5671e15e0b54 <unknown>
+#7 0x5671e15bac03 <unknown>
+#8 0x5671e15877a8 <unknown>
+#9 0x5671e1588421 <unknown>
+#10 0x5671e1a83b28 <unknown>
+#11 0x5671e1a8787f <unknown>
+#12 0x5671e1a6bc49 <unknown>
+#13 0x5671e1a88405 <unknown>
+#14 0x5671e1a514ff <unknown>
+#15 0x5671e1aac258 <unknown>
+#16 0x5671e1aac432 <unknown>
+#17 0x5671e1abdfa3 <unknown>
+#18 0x76706509caa4 <unknown>
+#19 0x767065129c3c <unknown>
+
+2025-09-25 19:56:04,179 - INFO - Button never showed up, continuing...
