@@ -5,7 +5,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
-import logging
+import logging #to log all the errors in log files and track warnings in real time
 
 #to download webdriver - https://sites.google.com/chromium.org/driver/
 #chromedriver ver (140.0.7339.207)
@@ -52,6 +52,6 @@ input_element1.send_keys(f"{selem}"+Keys.ENTER)
 
 
 
-# time.sleep(30)
+time.sleep(30)
 
-# driver.quit()
+driver.quit()
