@@ -1,6 +1,6 @@
 Prerequisites:
-download webdriver - https://sites.google.com/chromium.org/driver/ (for chromium web driver)
-+chromedriver ver (140.0.7339.207)
+download webdriver - https://sites.google.com/chromium.org/driver/ (for chromium web driver)  
++chromedriver ver (140.0.7339.207)  
 Python (ver 3.0+)
 
 Note:
