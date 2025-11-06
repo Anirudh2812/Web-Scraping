@@ -1,0 +1,25 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+.env.*
+
+# Logs
+*.log
+
+# ChromeDriver or other binaries
+chromedriver
+*.exe
+
+# OS-specific stuff
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
